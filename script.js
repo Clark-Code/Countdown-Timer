@@ -6,7 +6,7 @@ const minutesElement = document.getElementById('minutes');
 const secondsElement = document.getElementById('seconds');
 
 // New Years Date
-const newYears = '1 Jan 2021';
+const newYears = '1 Jan 2022';
 
 // function to calculate countdown
 function countDown() {
